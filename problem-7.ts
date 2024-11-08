@@ -10,9 +10,7 @@ class Car {
   }
 
   getCarAge = (): string => {
-    return `this car is ${new Date().getFullYear() - this.year} years old`;
+    return ` ${new Date().getFullYear() - this.year} (assuming current year is 2024)`;
   };
 }
 
-const car = new Car("Honda", "Civic", 2018);
-console.log(car.getCarAge());
