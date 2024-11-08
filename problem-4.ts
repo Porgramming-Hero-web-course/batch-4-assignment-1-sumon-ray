@@ -18,3 +18,5 @@ function calculateShapeArea(shape: Shape): number {
   }
   throw new Error("Unknown shape type");
 }
+
+
