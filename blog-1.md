@@ -1,4 +1,4 @@
-#Protection with type guards
+##Protection with type guards
 
 
 This is really important feature of TypeScript. It allows you to check types in your code to assure that your data-flow relies on the correct data types. Many people use it, without even knowing that it’s named “type guards”. Let’s go with examples.
