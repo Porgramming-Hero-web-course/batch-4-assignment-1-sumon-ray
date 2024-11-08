@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpile-only problem-4.ts" 
+    "dev": "ts-node-dev --respawn --transpile-only problem-5.ts" 
 
   },
   "keywords": [],
